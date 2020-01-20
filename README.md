@@ -9,8 +9,8 @@
 //running the node application
 
 1)clone the project from this url https://github.com/PoojaAshwath/CCTask.git from commnad prompt
-2)This will create the assignment folder in corresponding directory
-3)just run npm install command in terminal in assingment root folder
+2)This will create the CCTask folder in corresponding directory
+3)just run npm install command in terminal in CCTask root folder
 4)after successfull installation run "nodemon index.js" command to run the node server listening on port 4000
 5)check the both endpoints for getting posts "http://localhost:4000/api/cardlist" and posting posts  "http://localhost:4000/api/card"
 
